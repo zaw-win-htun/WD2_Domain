@@ -1,0 +1,84 @@
+body {
+  padding-top: 40px;
+}
+
+ section{
+  margin:30px 0 50px 0;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.collapse ul li a{
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.jumbotron{
+  background:#bf5a16;
+}
+
+.feature-list{
+  list-style:none;
+}
+
+.well{
+  overflow: auto;
+}
+
+.carousel{
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.carousel-caption{
+  z-index: 10px;
+  text-align: left;
+  top:70px; 
+  right: 15%;
+  left: 15%;
+  font-size: 22px;
+}
+
+.carousel .item{
+  height:700px;
+  background-color: #777;
+
+}
+
+
+
+.carousel-inner > .item > img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100px;
+  height: 700px;
+  width: 100%;
+}
+
+.server-img{
+  width: 100%;
+}
+
+/* Marketing section */
+
+.marketing{
+  text-align: center;
+}
+
+.marketing h2{
+  font-weight: normal;
+}
+
+.price strong{
+  font-size: 32px;
+}
+
